@@ -1,5 +1,5 @@
 # ProjetoCulturaDevops
-Primeiro projeto da aula de cultura Devops
+Projeto de CI/CD da aula de cultura Devops
 
 Esse mini projeto foi realizado utilizando JavaScript para fazer uma calculadora super simples e Jest realizar os testes unitários.
 
