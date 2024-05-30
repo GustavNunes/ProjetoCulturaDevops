@@ -1,0 +1,17 @@
+{
+  "name": "simple-ci-cd-example",
+  "version": "1.0.0",
+  "description": "Exemplo de projeto simples para demonstrar CI/CD com GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
