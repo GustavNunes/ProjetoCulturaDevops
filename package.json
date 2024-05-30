@@ -1,5 +1,5 @@
 {
-  "name": "simple-ci-cd-example",
+  "name": "exemplo-ci-cd",
   "version": "1.0.0",
   "description": "Exemplo de projeto simples para demonstrar CI/CD com GitHub Actions",
   "main": "app.js",
