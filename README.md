@@ -12,7 +12,11 @@ Pipeline:
 A pipeline foi buildada para rodar na versão mais recente do Ubuntu, e ela tem as seguintes etapas:
 
 1 - Checkout code: Faz o checkout do código do repositório.
+
 2 - Set up Node.js: Configura o ambiente Node.js utilizando a versão 14.
+
 3 - Install dependencies: Instala as dependências do projeto utilizando npm install.
+
 4 - Run tests: Executa os testes automatizados utilizando npm test.
+
 5 - Deploy: Esta é uma seção opcional, não cheguei a utilizar mas deixei criada para estudar mais sobre no futuro.
